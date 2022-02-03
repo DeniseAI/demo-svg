@@ -1,1 +1,11 @@
-/* developer styles go here */
+.flex-container {
+    display: flex;
+}
+
+svg {
+    fill: greenyellow;
+}
+
+svg:hover {
+    fill: forestgreen;
+}
